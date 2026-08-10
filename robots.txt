@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-momentalnym-vyvodom-na-kartu.github.io
+Sitemap: https://kazino-s-momentalnym-vyvodom-na-kartu.github.io/sitemap.xml
